@@ -1,0 +1,43 @@
+﻿@model Vuelos.Models.ClaseVuelo
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Baja</h2>
+
+<h3>¿Seguro que desea eliminar esto?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Hora)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Hora)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Vuelo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Vuelo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Linea_Aerea)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Linea_Aerea)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Demorado)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Demorado)
+        </dd>
+    </dl>
+
+    <form asp-action="DarDeBaja"> 
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Eliminar" class="btn btn-primary" />
+        <button asp-action="Index" class="btn btn-danger"> Cancelar </button>
+    </form>
+</div>

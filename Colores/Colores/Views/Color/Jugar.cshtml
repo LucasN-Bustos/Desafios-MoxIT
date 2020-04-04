@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Jugar";
+}
+<h3>¿Cuál es @ViewData["Valid"]?</h3>
+<div class="collapse navbar-collapse"> <!-- Se recorre el vector de colores y los genera -->
+    @foreach (string i in Model)    
+    {
+        <div class="col-md-1" style="margin: 5px">
+            @if ((string)ViewData["Valid"] == i)
+            {
+                <div style="width: 100px; height: 100px; background: @i" onclick="Ganar(event)"></div>
+            }
+            else
+            {
+                <div style="width: 100px; height: 100px; background: @i" onclick="Perder(event)"></div>
+            }
+        </div>
+    }
+</div>
+<!-- script de javaScript en el cual genera un alerta cuando se hace click en un color-->
+<script type="text/javascript">
+    function Ganar(e) {
+        alert("¡Ganaste! Vuelve a intentarlo en otra dificultad");
+        window.location = "@Url.Action("Index", "Color")";
+    }
+    function Perder(e) {
+        alert("Perdiste, vuelve a intentarlo");
+    }
+</script>

@@ -1,0 +1,19 @@
+﻿@model Vuelos.Models.ClaseVuelo
+
+@{
+    ViewData["Title"] = "Modificar";
+    List<SelectListItem> items = (List<SelectListItem>)ViewBag.items;
+}
+<h2>Seleccione el número de vuelo a modificar</h2>
+<div class="collapse navbar-collapse">
+        @using (Html.BeginForm("Edit", "ClaseVueloes", FormMethod.Post, new { @class = "navbar-form navbar-left" }))
+            {
+                <div class="col-md-12 col-xs-6">
+                    @Html.DropDownList("Id", items,null, new { @class = "form-control" })
+                    <input type="submit" class="btn btn-primary" value="Modificar" />
+                    <form asp-action="Edit">
+                            <input type="hidden" asp-for="Id" />
+                    </form>
+                </div>
+            }
+</div>

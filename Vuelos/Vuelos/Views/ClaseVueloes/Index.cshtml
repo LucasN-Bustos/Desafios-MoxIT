@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Vuelos.Models.ClaseVuelo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Próximos Vuelos</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Hora)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vuelo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Linea_Aerea)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Demorado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Hora)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Vuelo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Linea_Aerea)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Demorado)
+                </td>
+            </tr>
+    }
+    </tbody>
+    </table>

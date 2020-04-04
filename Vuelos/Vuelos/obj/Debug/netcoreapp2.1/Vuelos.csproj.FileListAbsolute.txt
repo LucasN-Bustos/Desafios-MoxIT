@@ -1,0 +1,137 @@
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.deps.json
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.runtimeconfig.json
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.dll
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.TagHelpers.input.cache
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.TagHelpers.output.cache
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.pdb
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.Views.dll
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.Views.pdb
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.Views.pdb
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.dll
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.pdb
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.csproj.CopyComplete
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Create.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Delete.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Details.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Edit.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Index.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Baja.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio1.1\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Modificar.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.deps.json
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.runtimeconfig.json
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.dll
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.pdb
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.Views.dll
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.Views.pdb
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.TagHelpers.input.cache
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.TagHelpers.output.cache
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Baja.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Create.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Delete.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Edit.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Index.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Modificar.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.Views.pdb
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.dll
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.pdb
+C:\Users\DELL\Desktop\Desafio Final\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.csproj.CopyComplete
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.deps.json
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.runtimeconfig.json
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.dll
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.pdb
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.Views.dll
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.Views.pdb
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.TagHelpers.input.cache
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.TagHelpers.output.cache
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Baja.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Create.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Delete.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Edit.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Index.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Modificar.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.Views.pdb
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.dll
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.pdb
+C:\Users\DELL\Desktop\Desafio\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.csproj.CopyComplete
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.deps.json
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.runtimeconfig.json
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.dll
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.pdb
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.Views.dll
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\bin\Debug\netcoreapp2.1\Vuelos.Views.pdb
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.TagHelpers.input.cache
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.TagHelpers.output.cache
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Baja.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Create.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Delete.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Edit.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Index.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\ClaseVueloes\Modificar.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.Views.pdb
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.dll
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.pdb
+C:\Users\DELL\Desktop\Desafios Bustos Lucas\Desafios Bustos Lucas\Desafio Vuelos\Vuelos\Vuelos\obj\Debug\netcoreapp2.1\Vuelos.csproj.CopyComplete

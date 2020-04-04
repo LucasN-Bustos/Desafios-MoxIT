@@ -1,0 +1,45 @@
+﻿@model Vuelos.Models.ClaseVuelo
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Alta</h2>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Hora" class="control-label"></label>
+                <input asp-for="Hora" class="form-control"/>
+                <span asp-validation-for="Hora" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vuelo" class="control-label"></label>
+                <input asp-for="Vuelo" class="form-control" 
+                       placeholder="Número de vuelo ej.: AU 2399" /> <!-- texto de ayuda para el usuario-->
+                <span asp-validation-for="Vuelo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Linea_Aerea" class="control-label"></label>
+                <input asp-for="Linea_Aerea" class="form-control"
+                       placeholder="Línea aérea ej.: Latam" /> <!-- texto de ayuda para el usuario-->
+                <span asp-validation-for="Linea_Aerea" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="Demorado" /> @Html.DisplayNameFor(model => model.Demorado)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

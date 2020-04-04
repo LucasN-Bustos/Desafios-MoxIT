@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Colores</h2>
+
+<h3>Selecciona la dificultad</h3>
+<!-- Se genera la lista enviada por el controlador-->
+<div class="collapse navbar-collapse">
+    @using (Html.BeginForm("Jugar", "Color", FormMethod.Post, new { @class = "navbar-form navbar-left" }))
+    {
+        <div class="pull-right">
+            @Html.DropDownList("Id", ViewData["lista"] as SelectList)
+            <input type="submit" class="btn btn-primary" value="Seleccionar" />
+        </div>
+    }
+</div>

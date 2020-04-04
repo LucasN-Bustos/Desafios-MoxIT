@@ -1,0 +1,20 @@
+﻿@model Vuelos.Models.ClaseVuelo
+
+@{
+    ViewData["Title"] = "Baja";
+    List<SelectListItem> items = (List<SelectListItem>)ViewBag.items;
+}
+<h2>Seleccione el número de vuelo a eliminar</h2>
+<!-- Genera la lista de nro de vuelos y el boton eliminar-->
+<div class="collapse navbar-collapse">
+    @using (Html.BeginForm("Delete", "ClaseVueloes", FormMethod.Post, new { @class = "navbar-form navbar-left" }))
+    {
+        <div class="col-md-12 col-xs-6">
+            @Html.DropDownList("Id", items, null, new { @class = "form-control" })
+            <input type="submit" class="btn btn-primary" value="Eliminar" />
+                <form asp-action="Delete">
+                    <input type="hidden" asp-for="Id" /> <!-- envia al controlado Delete el Id de nro de vuelo que se selecciono-->
+                </form>
+        </div>
+    }
+</div>
